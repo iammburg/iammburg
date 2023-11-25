@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![iammburg's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammburg&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammburg)](https://github.com/iammburg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammburg&layout=donut)](https://github.com/iammburg/github-readme-stats)
