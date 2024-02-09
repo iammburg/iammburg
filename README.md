@@ -19,3 +19,11 @@ Here are some ideas to get you started:-->
 
 ![iammburg's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammburg&show_icons=true&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammburg&layout=donut)](https://github.com/iammburg/github-readme-stats)
+
+### Tech Stacks
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />          
+</p>        
+          
