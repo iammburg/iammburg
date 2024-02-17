@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-- 🌱 I’m currently learning Web Development, especially Full-stack Web Development
+- 🌱 I’m currently learning Web Development, especially Full-stack Web Development.
 
 
 ![iammburg's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammburg&show_icons=true&show_icons=true) <br>
