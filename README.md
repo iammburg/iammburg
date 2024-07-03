@@ -48,7 +48,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,bootstrap,tailwind,php,laravel,mysql,postgres,prisma,react,nextjs,vue,nuxtjs,express,hapi,ubuntu,nginx,vscode,git,github,vite,postman,docker,python,dart,flutter,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,bootstrap,tailwind,php,laravel,mysql,postgres,prisma,react,nextjs,vue,nuxtjs,express,ubuntu,nginx,vscode,git,github,vite,postman,docker,python,dart,flutter,figma&perline=14" />
   </a>
 </div>
 
