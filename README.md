@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 Language, tools and Tech Stacks</h3>
+<h3 align="left">🛠 Languages, tools and Tech Stacks</h3>
 
 ###
 
