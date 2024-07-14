@@ -61,11 +61,11 @@
 <div align="center">
           <img
     height="160"
-    alt="Aromal's Github Stats"
+    alt="Ilham Ndaru's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=iammburg&show_icons=true&theme=tokyonight&count_private=true"
   />
   <img
-    alt="Aromal's Github Stats"
+    alt="Ilham Ndaru's Github Stats"
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammburg&layout=compact&theme=tokyonight"
   />
