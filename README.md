@@ -11,7 +11,7 @@
   <a href="mailto:ilhamprabowo009@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/thefatoldsun/" target="_blank">
+  <a href="https://www.instagram.com/outsidemywall/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 <!--   <a href="" target="_blank">
