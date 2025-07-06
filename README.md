@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Ilham Andaru Prabowo.<br><br> I'm a dedicated and enthusiastic individual on a journey to become a seasoned Fullstack Web Developer. I have more than one years of web developer experience. <br> I am driven by an insatiable curiosity and an unwavering commitment to learning. Passionate programmer with a fervent desire for continuous learning and growth.</p>
+<p align="left">I'm Ilham Andaru Prabowo.<br><br> I'm a dedicated and enthusiastic individual on a journey to become a seasoned Fullstack Developer. I have more than one years of web developer experience. <br> I am driven by an insatiable curiosity and an unwavering commitment to learning. Passionate programmer with a fervent desire for continuous learning and growth.</p>
 
 ###
 
